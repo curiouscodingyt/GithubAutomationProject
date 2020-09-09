@@ -14,7 +14,7 @@ $ python create_repo.py --help
 
 ## Requirements
 * Python, Git, GitHub Account + GitHub access token 
-* Update variables `REPO_PATH`, `GITHUB_USER` and `GITHUB_USER`
+* Update variables `REPO_PATH`, `GITHUB_USER` and `GITHUB_TOKEN`
 
 ## Usage
 
