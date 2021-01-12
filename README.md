@@ -25,4 +25,4 @@ $ python create_repo.py --name REPOSITORY_NAME
 ```
 
 ## YouTube video
-Check the [video](https://youtu.be/QiHvRDcWRXI) 
+Check the [video](https://youtu.be/b3ySWJinSh4) 
